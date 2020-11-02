@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Classe pour détruire l'objet en préfab
 public class Destruction : MonoBehaviour
 {
     [SerializeField]

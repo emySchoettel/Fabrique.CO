@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Classe pour faire spawn un prefab à un emplacement hasardeux 
 public class PrefabTimedSpawner : MonoBehaviour
 {
     [SerializeField]
